@@ -16,7 +16,14 @@ http://www.debugpoint.com/2016/04/install-classic-gnome-flashback-in-ubuntu-16-0
 1. cd ~
 2. wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 3. mv git-completion.bash .git-completion.bash
-4. Añadir estas lineas a ~/.bashrc 
-> source ~/.git-prompt.sh
+4. wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
+5. mv git-prompt.sh .git-prompt.sh
+6. Añadir estas lineas a ~/.bashrc 
+
+> . ~/.git-completion.bash
 > 
-> PS1="\[\033[38;5;2m\]\u@\h:\[$(tput sgr0)\]\[\033[38;5;11m\]\w\\$\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;5m\]$(__git_ps1 "(%s)")\[$(tput sgr0)\] "
+> . ~/.git-prompt.sh
+> 
+> export GIT_PS1_SHOWDIRTYSTATE=1
+> 
+> export PS1='\[\033[38;5;2m\]\u@\h:\[$(tput sgr0)\]\[\033[38;5;11m\]\w\\$\[$(tput sgr0)\]\[\033[38;5;5m\]$(__git_ps1 " (%s)")\[$(tput sgr0)\] '
