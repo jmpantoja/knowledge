@@ -13,4 +13,5 @@ Table of Contents
     * [Vagrant](docs/2-Entorno-Desarrollo/3-Vagrant.md)
 
 * Enlaces de interes
-    * [Enlaces](docs/3-Enlaces/1-Recursos.md)
+    * [Recursos](docs/3-Enlaces/1-Recursos.md)
+    * [PHP](docs/3-Enlaces/2-PHP.md)
