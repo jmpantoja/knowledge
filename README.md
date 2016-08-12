@@ -11,6 +11,8 @@ Table of Contents
     * [GitHub SSH](docs/2-Entorno-Desarrollo/1-GitHub-SSH.md)
     * [Netbeans](docs/2-Entorno-Desarrollo/2-Netbeans.md)
     * [Vagrant](docs/2-Entorno-Desarrollo/3-Vagrant.md)
+    * [PHP](docs/2-Entorno-Desarrollo/4-PHP.md)
 
 * Enlaces de interes
-    * [Enlaces](docs/3-Enlaces/1-Recursos.md)
+    * [Recursos](docs/3-Enlaces/1-Recursos.md)
+    * [PHP](docs/3-Enlaces/2-PHP.md)

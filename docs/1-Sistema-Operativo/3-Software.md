@@ -15,5 +15,4 @@
 ### Paquetes
 > sudo apt-get update
 >
-> sudo apt-get install -y terminator geany vim virtualbox virtualbox-dkms ansible git hexchat hexchat-indicator spotify-client wallch skype deluge vagrant nfs-common nfs-kernel-server mediainfo
-
+> sudo apt-get install -y terminator geany vim virtualbox virtualbox-dkms ansible git hexchat hexchat-indicator spotify-client wallch skype deluge vagrant nfs-common nfs-kernel-server mediainfo php7.0-cli php7.0-xml php7.0-mbstring
