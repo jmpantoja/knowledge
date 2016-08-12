@@ -11,6 +11,9 @@ http://plugins.netbeans.org/plugin/50964/markdown-support
 2. php-cs-fixer
 http://plugins.netbeans.org/plugin/49042/php-cs-fixer
 
+## PSR Formatting
+https://maniaplanet.github.io/netbeans-psr/
+
 ## Templates
 
 1. Definir user en Tools/Templates/Settings
