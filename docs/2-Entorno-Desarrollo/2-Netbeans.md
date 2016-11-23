@@ -14,6 +14,10 @@ http://plugins.netbeans.org/plugin/49042/php-cs-fixer
 ## PSR Formatting
 https://maniaplanet.github.io/netbeans-psr/
 
+Despues de eso, hay que ir a 
+Tools > Options > Formatting > Blank lines
+y asignar el valor 1 a After Class, para que todo valide en PSR-2
+
 ## Templates
 
 1. Definir user en Tools/Templates/Settings
