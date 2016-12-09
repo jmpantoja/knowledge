@@ -5,6 +5,7 @@
 Leer: https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez
 
 > git config --global user.name "Jose Manuel Pantoja"
+> 
 > git config --global user.email jmpantoja@gmail.com
 
 ## Configurar GitHub con SSH
