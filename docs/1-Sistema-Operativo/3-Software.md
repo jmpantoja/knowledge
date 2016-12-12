@@ -16,7 +16,7 @@
 ### Paquetes
 > sudo apt-get update
 >
-> sudo apt-get install -y terminator geany vim virtualbox virtualbox-dkms ansible git hexchat hexchat-indicator spotify-client wallch skype deluge vagrant nfs-common nfs-kernel-server mediainfo php7.0-cli php7.0-xml php7.0-mbstring php7.0-gd python3.5 python-pip deluged deluge-console compizconfig-settings-manager compiz-plugins-extra default-jre default-jdk vlc
+> sudo apt-get install -y terminator geany vim virtualbox virtualbox-dkms ansible git hexchat hexchat-indicator spotify-client wallch skype deluge vagrant nfs-common nfs-kernel-server mediainfo php7.0-cli php7.0-xml php7.0-mbstring php7.0-gd php7.0-curl php-xdebug python3.5 python-pip deluged deluge-console compizconfig-settings-manager compiz-plugins-extra default-jre default-jdk vlc
 > 
 > sudo pip install --upgrade setuptools
 >
