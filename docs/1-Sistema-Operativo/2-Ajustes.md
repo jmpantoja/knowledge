@@ -20,8 +20,9 @@ http://www.debugpoint.com/2016/04/install-classic-gnome-flashback-in-ubuntu-16-0
 5. mv git-prompt.sh .git-prompt.sh
 6. Añadir estas lineas a ~/.bashrc 
 
+(mejor copiar las lineas de raw (https://raw.githubusercontent.com/jmpantoja/knowledge/master/docs/1-Sistema-Operativo/2-Ajustes.md) )
+
 > . ~/.git-completion.bash
-> 
 > . ~/.git-prompt.sh
 > 
 > export GIT_PS1_SHOWDIRTYSTATE=1
